@@ -4,7 +4,7 @@
 
 
 # Example_1
-# Multi_Line_Variables
+# Multiple_Line_Variables
 firstVar = "firstVal"
 secondVar = "secondVal"
 thirdVar = "thirdVal"
