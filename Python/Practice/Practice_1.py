@@ -76,7 +76,7 @@ print("This is " + twelfthVar)
 
 
 # Example_7
-# Change_A_Global_Variable
+# Change_A_Global_Variables
 ThirteenthVar  = "ThirteenthVal1"
 
 def myfunc() :
